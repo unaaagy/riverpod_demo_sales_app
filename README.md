@@ -1,4 +1,4 @@
-# Riverpod sales app demo
+# Riverpod demo sales app
 
 This is a simple flutter app which demonstrates some capabilities of riverpod.
 
