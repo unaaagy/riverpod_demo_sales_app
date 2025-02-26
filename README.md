@@ -8,4 +8,4 @@ Credits to the original riverpod tutorial [here](https://github.com/iamshaunjp/f
 
 ![home_screen.webp](screenshots/home_screen.webp)
 
-![carts_screen.webp](screenshots/carts_screen.webp)
+![carts_screen.webp](screenshots/cart_screen.webp)
